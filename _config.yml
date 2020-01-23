@@ -1,11 +1,11 @@
 # Site settings
-author: Daniel J Feleppa
-title: 
+author: Daniel Feleppa
+title: Daniel's Flatiron School Blog
 header-img: img/home-bg.png
 email: dfeleppa@gmail.com
-copyright_name: Daniel J Feleppa
+copyright_name: Daniel Feleppa
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My journey through a software engineering bootcamp.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  dfeleppa
